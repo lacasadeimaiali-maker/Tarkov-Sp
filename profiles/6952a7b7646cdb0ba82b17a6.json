@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1767110936
+        "UpdateTime": 1767111111
       },
       "Inventory": {
         "items": [
@@ -14770,7 +14770,7 @@
         "Production": {
           "5fe338e364adb27bb90594be": {
             "Products": [],
-            "Progress": 290,
+            "Progress": 464,
             "inProgress": true,
             "StartTimestamp": 1767110678,
             "SkipTime": 0,
@@ -14842,8 +14842,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 73.3002,
-                        "UnitsConsumed": 6.6998
+                        "Value": 73.2428,
+                        "UnitsConsumed": 6.7572
                       }
                     }
                   }
@@ -15291,7 +15291,7 @@
         "HideoutCounters": null,
         "Seed": "85e2daf464a112facefd689118e8a197",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767110960,
+        "sptUpdateLastRunTimestamp": 1767111134,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6754662cc6e063d76309c607",
@@ -28335,12 +28335,7 @@
     "54cb50c76803fa8b248b4571": {},
     "5935c25fb3acc3127c3d8cd9": {},
     "5c0647fdd443bc2504c2d371": {},
-    "5a7c2eca46aef81a7ca2145d": {
-      "686e34416c2a18ed6b0e9fb0": {
-        "count": 1,
-        "purchaseTimestamp": 1767098054
-      }
-    },
+    "5a7c2eca46aef81a7ca2145d": {},
     "5ac3b934156ae10c4430e83c": {},
     "6617beeaa9cfa777ca915b7c": {},
     "58330581ace78e27b8b10cee": {},
