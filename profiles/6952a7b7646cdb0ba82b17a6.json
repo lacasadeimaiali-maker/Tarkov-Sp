@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 92,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 83,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1767096093
+        "UpdateTime": 1767110936
       },
       "Inventory": {
         "items": [
@@ -4817,23 +4817,6 @@
             }
           },
           {
-            "_id": "69532b944ee67b8c50a28e5b",
-            "_tpl": "5df8a72c86f77412640e2e83",
-            "parentId": "6952b0af646cdb0ba82cb949",
-            "slotId": "main",
-            "location": {
-              "x": 4,
-              "y": 4,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
             "_id": "69532b944ee67b8c50a28f20",
             "_tpl": "5df8a6a186f77412640e2e80",
             "parentId": "6952b0af646cdb0ba82cb949",
@@ -4885,23 +4868,6 @@
             }
           },
           {
-            "_id": "69532b944ee67b8c50a28db0",
-            "_tpl": "5df8a72c86f77412640e2e83",
-            "parentId": "6952b0af646cdb0ba82cb949",
-            "slotId": "main",
-            "location": {
-              "x": 3,
-              "y": 4,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
             "_id": "69532b944ee67b8c50a28e39",
             "_tpl": "5df8a6a186f77412640e2e80",
             "parentId": "6952b0af646cdb0ba82cb949",
@@ -4925,23 +4891,6 @@
             "slotId": "main",
             "location": {
               "x": 12,
-              "y": 4,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "69532b944ee67b8c50a28d1a",
-            "_tpl": "5df8a72c86f77412640e2e83",
-            "parentId": "6952b0af646cdb0ba82cb949",
-            "slotId": "main",
-            "location": {
-              "x": 1,
               "y": 4,
               "r": "Horizontal"
             },
@@ -8570,6 +8519,21 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": false
             }
+          },
+          {
+            "_id": "6953f811e13b5642983d9311",
+            "_tpl": "5ed51652f6c34d2cc26336a1",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 13,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "6952b0af646cdb0ba82cb84f",
@@ -8852,14 +8816,14 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 0,
+            "PointsEarnedDuringSession": 10,
+            "LastAccess": 1767110673,
             "Id": "Crafting",
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767093887,
+            "PointsEarnedDuringSession": 0.8,
+            "LastAccess": 1767110673,
             "Id": "HideoutManagement",
             "Progress": 5100
           }
@@ -14806,9 +14770,9 @@
         "Production": {
           "5fe338e364adb27bb90594be": {
             "Products": [],
-            "Progress": 2875,
+            "Progress": 290,
             "inProgress": true,
-            "StartTimestamp": 1767098404,
+            "StartTimestamp": 1767110678,
             "SkipTime": 0,
             "ProductionTime": 2875,
             "GivenItemsInStart": [],
@@ -14878,8 +14842,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 75.54,
-                        "UnitsConsumed": 4.46
+                        "Value": 73.3002,
+                        "UnitsConsumed": 6.6998
                       }
                     }
                   }
@@ -15258,7 +15222,7 @@
             "completeTime": 0,
             "constructing": false,
             "slots": [],
-            "lastRecipe": ""
+            "lastRecipe": "5fe338e364adb27bb90594be"
           },
           {
             "type": 22,
@@ -15327,7 +15291,7 @@
         "HideoutCounters": null,
         "Seed": "85e2daf464a112facefd689118e8a197",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767104170,
+        "sptUpdateLastRunTimestamp": 1767110960,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6754662cc6e063d76309c607",
@@ -27748,6 +27712,24 @@
         "author": "GhostFenixx",
         "dateAdded": 1767029917,
         "url": "https://github.com/GhostFenixx"
+      },
+      {
+        "name": "Black Division [REDACTED] Home",
+        "version": "1.0.1",
+        "author": "TacticalToaster",
+        "dateAdded": 1767110631
+      },
+      {
+        "name": "HideoutCustomizationUnlocker",
+        "version": "1.2.0",
+        "author": "Salco",
+        "dateAdded": 1767110631
+      },
+      {
+        "name": "MoreBotsAPI",
+        "version": "1.1.0",
+        "author": "TacticalToaster",
+        "dateAdded": 1767110631
       }
     ],
     "receivedGifts": [
