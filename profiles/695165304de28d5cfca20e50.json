@@ -20,7 +20,7 @@
         "LowerNickname": "ragnar",
         "Side": "Usec",
         "Level": 42,
-        "Experience": 2974916,
+        "Experience": 3000516,
         "RegistrationDate": 1766942129,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -63,7 +63,7 @@
           "Maximum": 100
         },
         "Energy": {
-          "Current": 70,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1767298886
+        "UpdateTime": 1767345073
       },
       "Inventory": {
         "items": [
@@ -1988,7 +1988,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 535,
+              "StackObjectsCount": 2120,
               "SpawnedInSession": false
             }
           },
@@ -9239,7 +9239,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 367458
+              "StackObjectsCount": 440113
             }
           },
           {
@@ -18581,8 +18581,8 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767289357,
+            "PointsEarnedDuringSession": 2,
+            "LastAccess": 1767345083,
             "Id": "HideoutManagement",
             "Progress": 5100
           }
@@ -26687,8 +26687,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 42.5581,
-                        "UnitsConsumed": 7.4419
+                        "Value": 27.338,
+                        "UnitsConsumed": 2.662
                       }
                     }
                   }
@@ -27476,7 +27476,7 @@
         "HideoutCounters": null,
         "Seed": "b7ef9d44ab02d92b6e1cabb213bb1bff",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767299303,
+        "sptUpdateLastRunTimestamp": 1767345444,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
@@ -29660,10 +29660,11 @@
         {
           "qid": "66631489acf8442f8b05319f",
           "startTime": 1767298897,
-          "status": 2,
+          "status": 4,
           "statusTimers": {
             "1": 1767011273.1399999,
-            "2": 1767298897
+            "2": 1767298897,
+            "4": 1767345415
           },
           "completedConditions": [],
           "availableAfter": 0
@@ -31016,87 +31017,11 @@
           "availableAfter": 0
         },
         {
-          "qid": "69557c83a8a1c35478253d52",
-          "startTime": 1767219134,
-          "status": 2,
-          "statusTimers": {
-            "1": 1767210115.222,
-            "2": 1767219134
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69557c83a8a1c35478253d60",
-          "startTime": 1767219138,
-          "status": 2,
-          "statusTimers": {
-            "1": 1767210115.222,
-            "2": 1767219138
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69557c83a8a1c35478253d6b",
-          "startTime": 1767219136,
-          "status": 2,
-          "statusTimers": {
-            "1": 1767210115.222,
-            "2": 1767219136
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69557c83a8a1c35478253d79",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1767210115.222
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
           "qid": "669fa39c64ea11e84c0642a6",
           "startTime": 1767219124,
           "status": 2,
           "statusTimers": {
             "2": 1767219124
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69557c83a8a1c35478253d52",
-          "startTime": 1767219134,
-          "status": 2,
-          "statusTimers": {
-            "1": 1767210115.222,
-            "2": 1767219134
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69557c83a8a1c35478253d6b",
-          "startTime": 1767219136,
-          "status": 2,
-          "statusTimers": {
-            "1": 1767210115.222,
-            "2": 1767219136
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69557c83a8a1c35478253d60",
-          "startTime": 1767219138,
-          "status": 2,
-          "statusTimers": {
-            "1": 1767210115.222,
-            "2": 1767219138
           },
           "completedConditions": [],
           "availableAfter": 0
@@ -31290,6 +31215,15 @@
             "2": 1767299094
           },
           "completedConditions": []
+        },
+        {
+          "qid": "6663148ca9290f9e0806cca1",
+          "startTime": 1767345418,
+          "status": 2,
+          "statusTimers": {
+            "2": 1767345418
+          },
+          "completedConditions": []
         }
       ],
       "TradersInfo": {
@@ -31336,7 +31270,7 @@
         "579dc571d53a0658a154fbec": {
           "loyaltyLevel": 2,
           "salesSum": 22629597,
-          "standing": 6.37,
+          "standing": 6.41,
           "nextResupply": 1631484143,
           "unlocked": true,
           "disabled": false
@@ -35003,7 +34937,7 @@
         "579dc571d53a0658a154fbec": {
           "loyaltyLevel": 2,
           "salesSum": 22629597,
-          "standing": 6.37,
+          "standing": 6.41,
           "nextResupply": 1631484143,
           "unlocked": true,
           "disabled": false
@@ -38551,7 +38485,7 @@
       "_id": "59e7125688a45068a6249071"
     },
     "54cb50c76803fa8b248b4571": {
-      "attachmentsNew": 12,
+      "attachmentsNew": 10,
       "new": 0,
       "type": 2,
       "pinned": false,
@@ -39932,32 +39866,11 @@
           "dt": 1767108382,
           "templateId": "6391359b9444fb141f4e6ee6 successMessageText",
           "text": "",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6953ef1ee13b5642983b4baa",
-            "data": [
-              {
-                "_id": "6953ef1ee13b5642983b4bb0",
-                "_tpl": "57372ac324597767001bc261",
-                "parentId": "6953ef1ee13b5642983b4baa",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true
-                }
-              },
-              {
-                "_id": "6953ef1ee13b5642983b4bb1",
-                "_tpl": "56dfef82d2720bbd668b4567",
-                "parentId": "6953ef1ee13b5642983b4bb0",
-                "slotId": "cartridges",
-                "upd": {
-                  "StackObjectsCount": 30,
-                  "SpawnedInSession": true
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         },
@@ -41651,21 +41564,11 @@
           "dt": 1767297098,
           "templateId": "5c12452c86f7744b83469073 successMessageText",
           "text": "",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6956d04abd8cc9086c1493c6",
-            "data": [
-              {
-                "_id": "6956d04abd8cc9086c1493c7",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6956d04abd8cc9086c1493c6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 72655
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         }
@@ -42123,10 +42026,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952ec086295de6a7852c179",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42149,10 +42049,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952ec116295de6a7852c189",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42164,10 +42061,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952f0cb6295de6a78540172",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42906,10 +42800,7 @@
           "text": "I tuoi articoli Bottiglia di liquore cucciolo feroce 1 sono stati acquistati da bushtail.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952ecc56295de6a7852eeaf",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42920,10 +42811,7 @@
           "text": "I tuoi articoli Tasca organizzativa S I C C 1 sono stati acquistati da zerowindy9406.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952f7a26295de6a7859ba29",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42935,10 +42823,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fd486295de6a785b81c0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42960,10 +42845,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da Sanote.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fd7f6295de6a785b9226",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42974,10 +42856,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da Reis.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fd896295de6a785b922b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -42988,10 +42867,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da h3ticnade.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fd936295de6a785b9230",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -43002,10 +42878,7 @@
           "text": "I tuoi articoli Fascicolo dell'Intelligence 1 sono stati acquistati da XkaOnslaught.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fd9d6295de6a785b9235",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -43016,10 +42889,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da Sever12.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fda76295de6a785ba25a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -43030,10 +42900,7 @@
           "text": "I tuoi articoli Zaino portante Eberlestock F4 Terminator (Tiger Stripe) 1 sono stati acquistati da Glukhar_111.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe296295de6a785bc20c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44233,10 +44100,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952ebff6295de6a7852c16c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44259,10 +44123,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952feb26295de6a785befc6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44285,10 +44146,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952feb86295de6a785befcd",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44300,10 +44158,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fec76295de6a785befdb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44326,10 +44181,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fecf6295de6a785befec",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44363,10 +44215,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952feed6295de6a785bfe54",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -44389,10 +44238,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fef26295de6a785bfe5f",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45685,10 +45531,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe3f6295de6a785bd004",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45766,10 +45609,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe4e6295de6a785bd013",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45781,10 +45621,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe536295de6a785bd037",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45829,10 +45666,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe5d6295de6a785bd05c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45855,10 +45689,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe696295de6a785bd077",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45892,10 +45723,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe766295de6a785bde64",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45918,10 +45746,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe7f6295de6a785bde6d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45933,10 +45758,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe836295de6a785bde75",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -45981,10 +45803,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fe996295de6a785bde7d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -46029,10 +45848,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6952fea96295de6a785bed42",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -46708,8 +46524,8 @@
       "_id": "6723fd51c5924c57ce0ca01e"
     },
     "579dc571d53a0658a154fbec": {
-      "attachmentsNew": 0,
-      "new": 2,
+      "attachmentsNew": 1,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -46752,6 +46568,53 @@
           "type": 10,
           "dt": 1767298897,
           "templateId": "66631489acf8442f8b05319f description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "69578d077a867f380c325f93",
+          "uid": "579dc571d53a0658a154fbec",
+          "type": 12,
+          "dt": 1767345415,
+          "templateId": "66631489acf8442f8b05319f successMessageText",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "69578d077a867f380c325f94",
+            "data": [
+              {
+                "_id": "69578d077a867f380c325f96",
+                "_tpl": "62a0a16d0b9d3c46de5b6e97",
+                "parentId": "69578d077a867f380c325f94",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              },
+              {
+                "_id": "69578d077a867f380c325f97",
+                "_tpl": "62a0a16d0b9d3c46de5b6e97",
+                "parentId": "69578d077a867f380c325f94",
+                "slotId": "main",
+                "upd": {
+                  "StackObjectsCount": 1,
+                  "SpawnedInSession": true
+                }
+              }
+            ]
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "69578d0a7a867f380c325f98",
+          "uid": "579dc571d53a0658a154fbec",
+          "type": 10,
+          "dt": 1767345418,
+          "templateId": "6663148ca9290f9e0806cca1 description",
           "text": "",
           "hasRewards": false,
           "rewardCollected": false,
@@ -47038,12 +46901,7 @@
     "58330581ace78e27b8b10cee": {},
     "5a7c2eca46aef81a7ca2145d": {},
     "5ac3b934156ae10c4430e83c": {},
-    "54cb57776803fa99248b456e": {
-      "686e34726c2a18ed6b0eb4b4": {
-        "count": 1,
-        "purchaseTimestamp": 1767299195
-      }
-    }
+    "54cb57776803fa99248b456e": {}
   },
   "friends": [],
   "customisationUnlocks": [
