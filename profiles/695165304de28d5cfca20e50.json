@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1767526927
+        "UpdateTime": 1767540895
       },
       "Inventory": {
         "items": [
@@ -28883,42 +28883,6 @@
           "type": "CounterCreator",
           "value": 0,
           "sourceId": "67d03be712fb5f8fd2096332"
-        },
-        "69582b774f820c30dc52d63c": {
-          "id": "69582b774f820c30dc52d63c",
-          "type": "CounterCreator",
-          "value": 6,
-          "sourceId": "69582b774f820c30dc52d638"
-        },
-        "69582b774f820c30dc52d64c": {
-          "id": "69582b774f820c30dc52d64c",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "69582b774f820c30dc52d64a"
-        },
-        "69582b774f820c30dc52d64d": {
-          "id": "69582b774f820c30dc52d64d",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "69582b774f820c30dc52d64a"
-        },
-        "69582b774f820c30dc52d665": {
-          "id": "69582b774f820c30dc52d665",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "69582b774f820c30dc52d660"
-        },
-        "69582b774f820c30dc52d670": {
-          "id": "69582b774f820c30dc52d670",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "69582b774f820c30dc52d66e"
-        },
-        "69582b774f820c30dc52d67e": {
-          "id": "69582b774f820c30dc52d67e",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "69582b774f820c30dc52d679"
         }
       },
       "InsuredItems": [
@@ -30182,8 +30146,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 27.2964,
-                        "UnitsConsumed": 2.7036
+                        "Value": 22.8542,
+                        "UnitsConsumed": 7.1458
                       }
                     }
                   }
@@ -31234,7 +31198,7 @@
         "MannequinPoses": {
           "12281902503046509036424d": "67604ab20aa8253ebe05fd08"
         },
-        "sptUpdateLastRunTimestamp": 1767527460,
+        "sptUpdateLastRunTimestamp": 1767540927,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
@@ -54315,6 +54279,13 @@
         "version": "2.0.0",
         "author": "Kobe Thuy",
         "dateAdded": 1767213432
+      },
+      {
+        "name": "server",
+        "version": "2.1.0",
+        "author": "Fika",
+        "dateAdded": 1767540895,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
       }
     ],
     "receivedGifts": [
