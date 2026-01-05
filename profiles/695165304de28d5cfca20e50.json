@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1767635972
+        "UpdateTime": 1767640631
       },
       "Inventory": {
         "items": [
@@ -23995,8 +23995,8 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767611428,
+            "PointsEarnedDuringSession": 1,
+            "LastAccess": 1767640526,
             "Id": "HideoutManagement",
             "Progress": 5100
           }
@@ -32907,8 +32907,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 51.4842,
-                        "UnitsConsumed": 8.5158
+                        "Value": 49.9464,
+                        "UnitsConsumed": 0.0536
                       }
                     }
                   }
@@ -33945,7 +33945,7 @@
         "MannequinPoses": {
           "12281902503046509036424d": "67604ab20aa8253ebe05fd08"
         },
-        "sptUpdateLastRunTimestamp": 1767636025,
+        "sptUpdateLastRunTimestamp": 1767640686,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
@@ -48436,10 +48436,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695807ea52c3ad14b40be2eb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -48462,10 +48459,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695807f052c3ad14b40be2f8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -48488,10 +48482,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695807f452c3ad14b40be304",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -48514,10 +48505,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695807f952c3ad14b40be30e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -48540,10 +48528,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695807fd52c3ad14b40be31b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -48566,10 +48551,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69580ed052c3ad14b40dca12",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
@@ -52539,10 +52521,7 @@
           "text": "I tuoi articoli Nota di ricerca della Labrys 2 sono stati acquistati da beamyy.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69580dd652c3ad14b40d8d37",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52553,10 +52532,7 @@
           "text": "I tuoi articoli Scheda grafica 1 sono stati acquistati da Skeeze.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69580de052c3ad14b40d8f99",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52567,10 +52543,7 @@
           "text": "I tuoi articoli Filtro elettrico militare 1 sono stati acquistati da [666]Silent.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69580e0852c3ad14b40d9e36",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
