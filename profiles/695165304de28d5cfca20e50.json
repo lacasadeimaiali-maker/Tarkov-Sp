@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1767640631
+        "UpdateTime": 1767875757
       },
       "Inventory": {
         "items": [
@@ -23995,8 +23995,8 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 1,
-            "LastAccess": 1767640526,
+            "PointsEarnedDuringSession": 4,
+            "LastAccess": 1767875769,
             "Id": "HideoutManagement",
             "Progress": 5100
           }
@@ -32907,8 +32907,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 49.9464,
-                        "UnitsConsumed": 0.0536
+                        "Value": 0,
+                        "UnitsConsumed": 0
                       }
                     }
                   }
@@ -32922,9 +32922,11 @@
                     "id": "69526c20cf67c12ca8b3b00d",
                     "_tpl": "5d1b371186f774253763a656",
                     "upd": {
+                      "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 60
+                        "Value": 32.4017,
+                        "UnitsConsumed": 7.598299999999998
                       }
                     }
                   }
@@ -33945,7 +33947,7 @@
         "MannequinPoses": {
           "12281902503046509036424d": "67604ab20aa8253ebe05fd08"
         },
-        "sptUpdateLastRunTimestamp": 1767640686,
+        "sptUpdateLastRunTimestamp": 1767875769,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
@@ -48583,10 +48585,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695587aba8a1c35478284ecb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -50390,297 +50389,7 @@
           "text": "",
           "hasRewards": true,
           "rewardCollected": false,
-          "items": {
-            "stash": "6958e0dc746c814898eb0039",
-            "data": [
-              {
-                "_id": "6958e0dc746c814898eb003b",
-                "_tpl": "5ba26383d4351e00334c93d9",
-                "parentId": "6958e0dc746c814898eb0039",
-                "slotId": "main",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 82.944046,
-                    "MaxDurability": 86.58989
-                  },
-                  "FireMode": {
-                    "FireMode": "fullauto"
-                  },
-                  "Foldable": {
-                    "Folded": false
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb003c",
-                "_tpl": "5ba26586d4351e44f824b340",
-                "parentId": "6958e0dc746c814898eb003b",
-                "slotId": "mod_magazine"
-              },
-              {
-                "_id": "6958e0dc746c814898eb003d",
-                "_tpl": "5ba26acdd4351e003562908e",
-                "parentId": "6958e0dc746c814898eb003b",
-                "slotId": "mod_muzzle"
-              },
-              {
-                "_id": "6958e0dc746c814898eb003e",
-                "_tpl": "5ba26ae8d4351e00367f9bdb",
-                "parentId": "6958e0dc746c814898eb003d",
-                "slotId": "mod_muzzle"
-              },
-              {
-                "_id": "6958e0dc746c814898eb003f",
-                "_tpl": "59f9d81586f7744c7506ee62",
-                "parentId": "6958e0dc746c814898eb003b",
-                "slotId": "mod_scope",
-                "upd": {
-                  "Sight": {
-                    "ScopesCurrentCalibPointIndexes": [
-                      0
-                    ],
-                    "ScopesSelectedModes": [
-                      0
-                    ],
-                    "SelectedScope": 0,
-                    "ScopeZoomValue": 0
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0040",
-                "_tpl": "626becf9582c3e319310b837",
-                "parentId": "6958e0dc746c814898eb003b",
-                "slotId": "mod_tactical_001",
-                "upd": {
-                  "Light": {
-                    "IsActive": false,
-                    "SelectedMode": 0
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0041",
-                "_tpl": "5cc9c20cd7f00c001336c65d",
-                "parentId": "6958e0dc746c814898eb003b",
-                "slotId": "mod_tactical_002",
-                "upd": {
-                  "Light": {
-                    "IsActive": true,
-                    "SelectedMode": 0
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0042",
-                "_tpl": "5bcf0213d4351e0085327c17",
-                "parentId": "6958e0dc746c814898eb003b",
-                "slotId": "mod_stock"
-              },
-              {
-                "_id": "6958e0dc746c814898eb0043",
-                "_tpl": "67a9dca99de6826a650ee068",
-                "parentId": "6958e0dc746c814898eb0039",
-                "slotId": "main"
-              },
-              {
-                "_id": "6958e0dc746c814898eb0044",
-                "_tpl": "5e00c1ad86f774747333222c",
-                "parentId": "6958e0dc746c814898eb0039",
-                "slotId": "main"
-              },
-              {
-                "_id": "6958e0dc746c814898eb0045",
-                "_tpl": "66b5f69ea7f72d197e70bcdb",
-                "parentId": "6958e0dc746c814898eb0044",
-                "slotId": "mod_equipment_000"
-              },
-              {
-                "_id": "6958e0dc746c814898eb0046",
-                "_tpl": "6551fec55d0cf82e51014288",
-                "parentId": "6958e0dc746c814898eb0044",
-                "slotId": "helmet_top",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 9.853554,
-                    "MaxDurability": 23.13983
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0047",
-                "_tpl": "655200ba0ef76cf7be09d528",
-                "parentId": "6958e0dc746c814898eb0044",
-                "slotId": "helmet_back",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 20.551712,
-                    "MaxDurability": 22.01202
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0048",
-                "_tpl": "5648a69d4bdc2ded0b8b457b",
-                "parentId": "6958e0dc746c814898eb0039",
-                "slotId": "main"
-              },
-              {
-                "_id": "6958e0dc746c814898eb0049",
-                "_tpl": "5ba26586d4351e44f824b340",
-                "parentId": "6958e0dc746c814898eb0048",
-                "slotId": "1",
-                "location": {
-                  "x": 0,
-                  "y": 0,
-                  "r": "Horizontal"
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb004a",
-                "_tpl": "5ba26586d4351e44f824b340",
-                "parentId": "6958e0dc746c814898eb0048",
-                "slotId": "2",
-                "location": {
-                  "x": 0,
-                  "y": 0,
-                  "r": "Horizontal"
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb004b",
-                "_tpl": "5df8a4d786f77412672a1e3b",
-                "parentId": "6958e0dc746c814898eb0039",
-                "slotId": "main"
-              },
-              {
-                "_id": "6958e0dc746c814898eb004c",
-                "_tpl": "5f5f41476bdad616ad46d631",
-                "parentId": "6958e0dc746c814898eb0039",
-                "slotId": "main"
-              },
-              {
-                "_id": "6958e0dc746c814898eb004d",
-                "_tpl": "656f664200d62bcd2e024077",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Front_plate",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 30.5146637,
-                    "MaxDurability": 54.21
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb004e",
-                "_tpl": "657b2797c3dbcb01d60c35ea",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Back_plate",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 34.3237839,
-                    "MaxDurability": 38.22
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb004f",
-                "_tpl": "654a4f8bc721968a4404ef18",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Left_side_plate",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 24.32,
-                    "MaxDurability": 24.32
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0050",
-                "_tpl": "65731b46cea9255e2102360a",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Soft_armor_front",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 32.20656,
-                    "MaxDurability": 36.86
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0051",
-                "_tpl": "65731b4fcea9255e2102360e",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Soft_armor_back",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 36.96,
-                    "MaxDurability": 36.96
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0052",
-                "_tpl": "65731b576e709cddd001ec3f",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Soft_armor_left",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 14.27,
-                    "MaxDurability": 14.27
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0053",
-                "_tpl": "65731b60ff6dc44a7d068c4a",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "soft_armor_right",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 14.33,
-                    "MaxDurability": 14.33
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0054",
-                "_tpl": "65731b666e709cddd001ec43",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Collar",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 9.52,
-                    "MaxDurability": 9.52
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0055",
-                "_tpl": "65731b716e709cddd001ec47",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Groin",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 17.34,
-                    "MaxDurability": 17.34
-                  }
-                }
-              },
-              {
-                "_id": "6958e0dc746c814898eb0056",
-                "_tpl": "65731b6b6042b0f210020ef6",
-                "parentId": "6958e0dc746c814898eb004c",
-                "slotId": "Groin_back",
-                "upd": {
-                  "Repairable": {
-                    "Durability": 19.02,
-                    "MaxDurability": 19.02
-                  }
-                }
-              }
-            ]
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "02.01.2026",
@@ -50697,10 +50406,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e1e17831e510ca5732f",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -50723,10 +50429,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e7917831e510ca57370",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
@@ -52565,10 +52268,7 @@
           "text": "I tuoi articoli Fascicolo dell'Intelligence 1 sono stati acquistati da JP21.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69581ca5b8734f6654298946",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52580,10 +52280,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e295746c814898eb02bc",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52594,10 +52291,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da ItsReaperGirl.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e426746c814898eb4e89",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52608,10 +52302,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da laser50.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e430746c814898eb5c9a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52622,10 +52313,7 @@
           "text": "I tuoi articoli Fascicolo dell'Intelligence 1 sono stati acquistati da RootsNine.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e43a746c814898eb5ca0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52636,10 +52324,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da Crackbone.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e43a746c814898eb5ca4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52650,10 +52335,7 @@
           "text": "I tuoi articoli Scheda grafica 1 sono stati acquistati da Ilhsiek.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e476746c814898eb5caa",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52664,10 +52346,7 @@
           "text": "I tuoi articoli Scheda grafica 1 sono stati acquistati da DanW.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6958e480746c814898eb6b13",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52679,31 +52358,7 @@
           "text": "",
           "hasRewards": true,
           "rewardCollected": false,
-          "items": {
-            "stash": "69590e5217831e510ca57358",
-            "data": [
-              {
-                "_id": "69590e5217831e510ca5735a",
-                "_tpl": "66b5f693acff495a294927e3",
-                "parentId": "69590e5217831e510ca57358",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true
-                }
-              },
-              {
-                "_id": "69590e5217831e510ca5735b",
-                "_tpl": "66b5f693acff495a294927e3",
-                "parentId": "69590e5217831e510ca57358",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true
-                }
-              }
-            ]
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52726,10 +52381,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e5917831e510ca57363",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52740,10 +52392,7 @@
           "text": "I tuoi articoli Scheda grafica 1 sono stati acquistati da Lavax.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590f1d17831e510ca57608",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52754,10 +52403,7 @@
           "text": "I tuoi articoli Bottiglia di whiskey Dan Jackiel 3 sono stati acquistati da YukoVR.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590f2717831e510ca5760d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52768,10 +52414,7 @@
           "text": "I tuoi articoli Scheda grafica 1 sono stati acquistati da worshipme.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590f2717831e510ca57611",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52782,10 +52425,7 @@
           "text": "I tuoi articoli Bottiglia di vodka Tarkovskaya 1 sono stati acquistati da jonkler.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590f3117831e510ca57616",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52796,10 +52436,7 @@
           "text": "I tuoi articoli Bottiglia di vodka Tarkovskaya 1 sono stati acquistati da agavalda.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590f3b17831e510ca5761a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52810,10 +52447,7 @@
           "text": "I tuoi articoli Bottiglia di vodka Tarkovskaya 1 sono stati acquistati da jfetko.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590f4517831e510ca5761e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52824,10 +52458,7 @@
           "text": "I tuoi articoli Confezione di zucchero 1 sono stati acquistati da ChazLTK.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695a95db08134e3d28cbb46e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52838,10 +52469,7 @@
           "text": "I tuoi articoli Transilluminatore cutaneo LEDX 1 sono stati acquistati da Szonszczyk.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9d46928c631af4977774",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52852,10 +52480,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da ALameLlama.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9d50928c631af497777a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52866,10 +52491,7 @@
           "text": "I tuoi articoli Fascicolo dell'Intelligence 2 sono stati acquistati da SamSWAT.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9d5a928c631af497777f",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52880,10 +52502,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da itsMickle.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9d96928c631af4978624",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52894,10 +52513,7 @@
           "text": "I tuoi articoli Iniettore di stimolante da combattimento SJ9 TGLabs 1 sono stati acquistati da ItsRenke.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9db5928c631af497886c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52908,10 +52524,7 @@
           "text": "I tuoi articoli Iniettore di stimolante Trimadol 4 sono stati acquistati da NORVINSK_EVANGELION.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9db5928c631af4978870",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52922,10 +52535,7 @@
           "text": "I tuoi articoli Iniettore di stimolante P22 1 sono stati acquistati da Hicchy.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dbf928c631af4978875",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52936,10 +52546,7 @@
           "text": "I tuoi articoli Iniettore di stimolante da combattimento SJ9 TGLabs 1 sono stati acquistati da Tarkin.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dbf928c631af4978879",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52950,10 +52557,7 @@
           "text": "I tuoi articoli Iniettore di stimolante Trimadol 2 sono stati acquistati da Extrenz Arnautov.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dbf928c631af497887d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52964,10 +52568,7 @@
           "text": "I tuoi articoli Iniettore di stimolante M.U.L.E. 1 sono stati acquistati da Sanote.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dc9928c631af4978882",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52978,10 +52579,7 @@
           "text": "I tuoi articoli Iniettore di stimolante da combattimento SJ9 TGLabs 1 sono stati acquistati da Acouthyt.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dc9928c631af4978886",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -52992,10 +52590,7 @@
           "text": "I tuoi articoli Iniettore di stimolante M.U.L.E. 2 sono stati acquistati da Schrader.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dd3928c631af497888a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53006,10 +52601,7 @@
           "text": "I tuoi articoli Iniettore di stimolante da combattimento SJ9 TGLabs 2 sono stati acquistati da Brollgarth.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9dd3928c631af497888e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53020,10 +52612,7 @@
           "text": "I tuoi articoli Iniettore cocktail \"Obdolbos\" 2 sono stati acquistati da DannyR121.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9df1928c631af497967d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53034,10 +52623,7 @@
           "text": "I tuoi articoli Iniettore di farmaci emostatici Zagustin 4 sono stati acquistati da nooky.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9df1928c631af4979681",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53048,10 +52634,7 @@
           "text": "I tuoi articoli Iniettore di adrenalina 1 sono stati acquistati da alexkarpen.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9e05928c631af4979686",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53062,10 +52645,7 @@
           "text": "I tuoi articoli Materiali TerraGroup \"Fascicoli Blu\" 1 sono stati acquistati da rpmwpm.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9e0f928c631af497968b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53076,10 +52656,7 @@
           "text": "I tuoi articoli Iniettore di adrenalina 1 sono stati acquistati da RainbowPC.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9e0f928c631af497968f",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -53090,10 +52667,7 @@
           "text": "I tuoi articoli Iniettore di adrenalina 1 sono stati acquistati da notGreg.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695b9e19928c631af4979694",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
@@ -54192,10 +53766,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e9317831e510ca5738b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
@@ -54792,10 +54363,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e3717831e510ca57341",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -54807,10 +54375,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e3b17831e510ca5734d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -54833,10 +54398,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69590e8317831e510ca5737e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
@@ -56458,10 +56020,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69581c6eb8734f66542988d4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -56473,10 +56032,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "695ac5c437a022419838b2cc",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
@@ -56961,6 +56517,18 @@
         "author": "Fika",
         "dateAdded": 1767540895,
         "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "WTT-ContentBackport",
+        "version": "1.0.4",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1767875757
+      },
+      {
+        "name": "WTT-ServerCommonLib",
+        "version": "2.0.11",
+        "author": "GrooveypenguinX",
+        "dateAdded": 1767875757
       }
     ],
     "receivedGifts": [
